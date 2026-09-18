@@ -64,9 +64,11 @@ export default function MonitoringPage() {
       {/* Header + kontrol refresh */}
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
         <div>
-          <h1 className="text-xl font-semibold text-text-main">Monitoring</h1>
+          <h1 className="text-xl font-semibold text-text-main">
+            {t("Monitor 9Router via Telegram Bot")}
+          </h1>
           <p className="text-sm text-text-muted">
-            Runtime status, activity, and Telegram bot control.
+            {t("Runtime status, activity, and provider health — watchable from Telegram.")}
           </p>
         </div>
         <div className="flex items-center gap-2">
