@@ -1427,5 +1427,7 @@
   "Failed": "Gagal",
   "active since": "aktif sejak",
   "with": "dengan",
-  "Log Bot": "Log Bot"
+  "Log Bot": "Log Bot",
+  "Monitor 9Router via Telegram Bot": "Pantau 9Router lewat Bot Telegram",
+  "Runtime status, activity, and provider health — watchable from Telegram.": "Status runtime, aktivitas, dan kesehatan provider — bisa dipantau dari Telegram."
 }
